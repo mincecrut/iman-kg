@@ -1,0 +1,15 @@
+{
+  "name": "Иман — ислам сайты",
+  "short_name": "Иман",
+  "description": "Куран котормосу жана аудио менен, тасбих, дуа, Аллаhтын 99 ысымы.",
+  "lang": "ky",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f0e2",
+  "theme_color": "#1f5a3a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
